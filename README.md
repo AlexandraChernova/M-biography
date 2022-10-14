@@ -1,6 +1,6 @@
 # Let me introduce myself
 
-![My photo]()
+![My photo](https://drive.google.com/file/d/1f7oCqJLGv69Jggau1vsqLk7-eu8HWZfm/view?usp=sharing)
 
 ## My name is Aleksandra
 I am 32 years old
@@ -12,6 +12,7 @@ and I want to radically change my profession!
  2. be able to work remotely;
  3. improve my English;
  4. enjoy my work!!!
+   
 
 ***My main motto in life:***
 
