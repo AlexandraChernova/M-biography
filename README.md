@@ -1,6 +1,6 @@
 # Let me introduce myself
 
-![My photo](https://drive.google.com/file/d/1f7oCqJLGv69Jggau1vsqLk7-eu8HWZfm/view?usp=sharing)
+![My photo](picture.png)
 
 ## My name is Aleksandra
 I am 31 years old
