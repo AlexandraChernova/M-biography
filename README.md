@@ -1,6 +1,6 @@
 # Let me introduce myself
 
-![My photo](picture.png)
+![My photo][def]
 
 ## My name is Aleksandra
 I am 31 years old
@@ -17,3 +17,6 @@ and I want to radically change my profession!
 ***My main motto in life:***
 
  > it's never too late to start!
+
+
+[def]: /picture.png
