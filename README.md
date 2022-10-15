@@ -3,7 +3,7 @@
 ![My photo](https://drive.google.com/file/d/1f7oCqJLGv69Jggau1vsqLk7-eu8HWZfm/view?usp=sharing)
 
 ## My name is Aleksandra
-I am 32 years old
+I am 31 years old
 and I want to radically change my profession!
 
 # What do I want to achieve in the near future?
