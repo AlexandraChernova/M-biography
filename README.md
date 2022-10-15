@@ -1,6 +1,6 @@
 # Let me introduce myself
 
-![My photo](picture.png)
+![picture](https://user-images.githubusercontent.com/115226019/195992367-09d899e6-f99e-47ac-88b1-f54e14cfdf78.png)
 
 ## My name is Aleksandra
 I am 31 years old
